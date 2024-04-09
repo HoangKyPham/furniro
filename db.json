@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1 update",
+      "price": 50,
+      "category": "Category 1",
+      "image": "https://example.com/image1.jpg",
+      "description": "Description for Product 1",
+      "discount": 10,
+      "featured": true,
+      "countInStock": 100
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 60,
+      "category": "Category 2",
+      "image": "https://example.com/image2.jpg",
+      "description": "Description for Product 2",
+      "discount": 0,
+      "featured": false,
+      "countInStock": 80
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "price": 70,
+      "category": "Category 1",
+      "image": "https://example.com/image3.jpg",
+      "description": "Description for Product 3",
+      "discount": 20,
+      "featured": true,
+      "countInStock": 120
+    },
+    {
+      "id": "4",
+      "name": "Product 4",
+      "price": 80,
+      "image": "https://example.com/image4.jpg",
+      "description": "Description for Product 4",
+      "discount": 5,
+      "featured": false,
+      "countInStock": 90
+    },
+    {
+      "id": "5",
+      "name": "Product 5",
+      "price": 90,
+      "category": "Category 1",
+      "image": "https://example.com/image5.jpg",
+      "description": "Description for Product 5",
+      "discount": 15,
+      "featured": true,
+      "countInStock": 110
+    },
+    {
+      "id": "6",
+      "name": "Product 6",
+      "price": 100,
+      "category": "Category 2",
+      "image": "https://example.com/image6.jpg",
+      "description": "Description for Product 6",
+      "discount": 0,
+      "featured": false,
+      "countInStock": 70
+    },
+    {
+      "id": "7",
+      "name": "Product 7",
+      "price": 110,
+      "category": "Category 1",
+      "image": "https://example.com/image7.jpg",
+      "description": "Description for Product 7",
+      "discount": 10,
+      "featured": true,
+      "countInStock": 95
+    },
+    {
+      "id": "8",
+      "name": "Product 8",
+      "price": 120,
+      "category": "Category 2",
+      "image": "https://example.com/image8.jpg",
+      "description": "Description for Product 8",
+      "discount": 5,
+      "featured": false,
+      "countInStock": 85
+    },
+    {
+      "id": "e235",
+      "name": "san pham 9 update",
+      "image": "https://picsum.photos/200/300",
+      "price": "234",
+      "description": "oke",
+      "category": "ghe dien",
+      "discount": "20",
+      "countInStock": "200"
+    }
+  ]
+}
